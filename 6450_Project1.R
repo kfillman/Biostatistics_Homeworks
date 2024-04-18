@@ -3,7 +3,7 @@
 
 
 # SWD & Load in data
-setwd("/Users/Kath/Documents/PUBH6450/Project 1")
+setwd("C:/Users/Kath/Documents/Biostatistics_Homeworks/6450 Datasets")
 SHAPE_survey <- read.csv('SHAPEMHdata.csv')
 library(psych)
 library(epibasix)

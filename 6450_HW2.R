@@ -2,7 +2,7 @@
 # Kath Fillman
 
 # Load in data
-setwd("C:/Users/Kath/Documents/Biostats/Biostats HW2")
+setwd("C:/Users/Kath/Documents/Biostatistics_Homeworks/6450 Datasets")
 SleepStudy <- read.csv("SleepStudy.csv")
 
 # Exploratory data analysis

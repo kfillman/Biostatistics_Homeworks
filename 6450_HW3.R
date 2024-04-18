@@ -4,7 +4,7 @@
 # Get data in & libraries loaded
 library(ggplot2)
 library(psych)
-setwd("~/Biostats/Biostats HW3")
+setwd("C:/Users/Kath/Documents/Biostatistics_Homeworks/6450 Datasets")
 pph_study <- read.csv('PPHstudyUpdated.csv')
 
 # Find number of variables

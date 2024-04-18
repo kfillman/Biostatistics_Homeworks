@@ -2,7 +2,7 @@
 # Kath Fillman
 
 # setwd & load data
-setwd("~/PUBH6450/HW_5")
+setwd("C:/Users/Kath/Documents/Biostatistics_Homeworks/6450 Datasets")
 pph <- read.csv('PPHstudy.csv')
 
 # SI as a predictor of blood loss during delivery

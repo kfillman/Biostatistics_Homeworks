@@ -2,6 +2,7 @@
 # Kath Fillman
 
 # Importing datasets & libraries
+setwd("C:/Users/Kath/Documents/Biostatistics_Homeworks/6450 Datasets")
 SleepStudy <- read.csv("SleepStudy.csv")
 library(ggplot2)
 library(psych)
